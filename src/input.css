@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    /* Colors */
+    --color-universal: #5956E8;
+    --color-ptag: #5D5D5D;
+    /* Colors */
+
+    /* Fonts */
+    --font-Inter: "Inter", "sans-serif"; 
+    /* Fonts */
+
+}

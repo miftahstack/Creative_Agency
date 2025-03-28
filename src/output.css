@@ -1334,6 +1334,9 @@
   .px-10 {
     padding-inline: calc(var(--spacing) * 10);
   }
+  .px-80 {
+    padding-inline: calc(var(--spacing) * 80);
+  }
   .py-2\.5 {
     padding-block: calc(var(--spacing) * 2.5);
   }
@@ -1372,6 +1375,15 @@
   }
   .pr-8 {
     padding-right: calc(var(--spacing) * 8);
+  }
+  .pr-40 {
+    padding-right: calc(var(--spacing) * 40);
+  }
+  .pr-50 {
+    padding-right: calc(var(--spacing) * 50);
+  }
+  .pr-52 {
+    padding-right: calc(var(--spacing) * 52);
   }
   .pr-\[4\] {
     padding-right: 4;

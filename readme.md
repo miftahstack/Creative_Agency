@@ -1,7 +1,4 @@
 font-family: "Nunito", sans-serif;
 font-family: "Inter", sans-serif;
-Support
-Help Desk
-Sales
-Become a Partner
-Developers
+
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch

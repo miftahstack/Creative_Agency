@@ -1633,6 +1633,9 @@
   .pr-\[420px\] {
     padding-right: 420px;
   }
+  .pb-1 {
+    padding-bottom: calc(var(--spacing) * 1);
+  }
   .pb-3 {
     padding-bottom: calc(var(--spacing) * 3);
   }
@@ -1702,6 +1705,9 @@
     font-size: var(--text-sm);
     line-height: var(--tw-leading, var(--text-sm--line-height));
   }
+  .text-\[5px\] {
+    font-size: 5px;
+  }
   .text-\[12\.5px\] {
     font-size: 12.5px;
   }
@@ -1713,6 +1719,9 @@
   }
   .text-\[14px\] {
     font-size: 14px;
+  }
+  .text-\[15px\] {
+    font-size: 15px;
   }
   .text-\[16px\] {
     font-size: 16px;
@@ -1818,6 +1827,12 @@
   }
   .\[color\:red\]\/50\! {
     color: color-mix(in oklab, red 50%, transparent) !important;
+  }
+  .text-\[\#\#5D5D5D\] {
+    color: ##5D5D5D;
+  }
+  .text-\[\#5D5D5D\] {
+    color: #5D5D5D;
   }
   .text-\[\#337FFF\] {
     color: #337FFF;
